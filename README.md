@@ -17,7 +17,7 @@ To build it, get a recent Anaconda installer from <https://www.anaconda.com/down
 C.f. <https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart>
 
 ```
-sudo docker build --tag toph/cloud9-docker:latest
+sudo docker build --tag tophcito/cloud9-docker:latest .
 ```
 
 
